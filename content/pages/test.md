@@ -23,6 +23,12 @@ sections:
         size: large
         variant: outlined
         color: primary
+      - type: Button
+        label: test action
+        url: /test
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/mui-5.svg
