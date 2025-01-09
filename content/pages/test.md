@@ -25,6 +25,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/mui-5.svg
       altText: Hero section image
 ---
